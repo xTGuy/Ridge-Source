@@ -1,1 +1,1 @@
-# Ridge Source and Source Licensing
+# Ridge and Source Engine Licensing
