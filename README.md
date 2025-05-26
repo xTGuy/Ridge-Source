@@ -1,2 +1,1 @@
-# Ridge-Source
-The issue tracker for Ridge Source.
+![Havoc Source](Havoc Source Logo.png)
